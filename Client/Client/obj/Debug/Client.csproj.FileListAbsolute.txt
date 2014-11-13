@@ -1,0 +1,64 @@
+G:\.NET SAMPLES\2014.11.10\Client\Client\bin\Debug\Client.exe.config
+G:\.NET SAMPLES\2014.11.10\Client\Client\bin\Debug\Client.exe
+G:\.NET SAMPLES\2014.11.10\Client\Client\bin\Debug\Client.pdb
+G:\.NET SAMPLES\2014.11.10\Client\Client\bin\Debug\p2p.dll
+G:\.NET SAMPLES\2014.11.10\Client\Client\bin\Debug\p2p.pdb
+G:\.NET SAMPLES\2014.11.10\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\.NET SAMPLES\2014.11.10\Client\Client\obj\Debug\Client.exe
+G:\.NET SAMPLES\2014.11.10\Client\Client\obj\Debug\Client.pdb
+G:\.NET SAMPLES\2014.11.11\Client\Client\bin\Debug\Client.exe.config
+G:\.NET SAMPLES\2014.11.11\Client\Client\obj\Debug\Client.exe
+G:\.NET SAMPLES\2014.11.11\Client\Client\obj\Debug\Client.pdb
+G:\.NET SAMPLES\2014.11.11\Client\Client\bin\Debug\Client.exe
+G:\.NET SAMPLES\2014.11.11\Client\Client\bin\Debug\Client.pdb
+G:\.NET SAMPLES\2014.11.11\Client\Client\bin\Debug\p2p.dll
+G:\.NET SAMPLES\2014.11.11\Client\Client\bin\Debug\p2p.pdb
+G:\.NET SAMPLES\2014.11.11\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\.NET SAMPLES\2014.11.11\Client - Copy\Client\bin\Debug\Client.exe.config
+G:\.NET SAMPLES\2014.11.11\Client - Copy\Client\obj\Debug\Client.exe
+G:\.NET SAMPLES\2014.11.11\Client - Copy\Client\obj\Debug\Client.pdb
+G:\.NET SAMPLES\2014.11.11\Client - Copy\Client\bin\Debug\Client.exe
+G:\.NET SAMPLES\2014.11.11\Client - Copy\Client\bin\Debug\Client.pdb
+G:\.NET SAMPLES\2014.11.11\Client - Copy\Client\bin\Debug\p2p.dll
+G:\.NET SAMPLES\2014.11.11\Client - Copy\Client\bin\Debug\p2p.pdb
+G:\.NET SAMPLES\2014.11.11\Client - Copy\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\.NET SAMPLES\2014.11.12\Client - Copy\Client\bin\Debug\Client.exe.config
+G:\.NET SAMPLES\2014.11.12\Client - Copy\Client\obj\Debug\Client.exe
+G:\.NET SAMPLES\2014.11.12\Client - Copy\Client\obj\Debug\Client.pdb
+G:\.NET SAMPLES\2014.11.12\Client - Copy\Client\bin\Debug\Client.exe
+G:\.NET SAMPLES\2014.11.12\Client - Copy\Client\bin\Debug\Client.pdb
+G:\.NET SAMPLES\2014.11.12\Client - Copy\Client\bin\Debug\p2p.dll
+G:\.NET SAMPLES\2014.11.12\Client - Copy\Client\bin\Debug\p2p.pdb
+G:\.NET SAMPLES\2014.11.12\Client - Copy\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\.NET SAMPLES\2014.11.13\Client\Client\bin\Debug\Client.exe.config
+G:\.NET SAMPLES\2014.11.13\Client\Client\obj\Debug\Client.exe
+G:\.NET SAMPLES\2014.11.13\Client\Client\obj\Debug\Client.pdb
+G:\.NET SAMPLES\2014.11.13\Client\Client\bin\Debug\Client.exe
+G:\.NET SAMPLES\2014.11.13\Client\Client\bin\Debug\Client.pdb
+G:\.NET SAMPLES\2014.11.13\Client\Client\bin\Debug\p2p.dll
+G:\.NET SAMPLES\2014.11.13\Client\Client\bin\Debug\p2p.pdb
+G:\.NET SAMPLES\2014.11.13\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\.NET SAMPLES\2014.11.14\Client\Client\bin\Debug\Client.exe.config
+G:\.NET SAMPLES\2014.11.14\Client\Client\obj\Debug\Client.exe
+G:\.NET SAMPLES\2014.11.14\Client\Client\obj\Debug\Client.pdb
+G:\.NET SAMPLES\2014.11.14\Client\Client\bin\Debug\Client.exe
+G:\.NET SAMPLES\2014.11.14\Client\Client\bin\Debug\Client.pdb
+G:\.NET SAMPLES\2014.11.14\Client\Client\bin\Debug\p2p.dll
+G:\.NET SAMPLES\2014.11.14\Client\Client\bin\Debug\p2p.pdb
+G:\.NET SAMPLES\2014.11.14\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\.NET SAMPLES\2014.11.15\Client\Client\bin\Debug\Client.exe.config
+G:\.NET SAMPLES\2014.11.15\Client\Client\obj\Debug\Client.exe
+G:\.NET SAMPLES\2014.11.15\Client\Client\obj\Debug\Client.pdb
+G:\.NET SAMPLES\2014.11.15\Client\Client\bin\Debug\Client.exe
+G:\.NET SAMPLES\2014.11.15\Client\Client\bin\Debug\Client.pdb
+G:\.NET SAMPLES\2014.11.15\Client\Client\bin\Debug\p2p.dll
+G:\.NET SAMPLES\2014.11.15\Client\Client\bin\Debug\p2p.pdb
+G:\.NET SAMPLES\2014.11.15\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\.NET SAMPLES\2014.11.16\Client\Client\bin\Debug\Client.exe.config
+G:\.NET SAMPLES\2014.11.16\Client\Client\obj\Debug\Client.exe
+G:\.NET SAMPLES\2014.11.16\Client\Client\obj\Debug\Client.pdb
+G:\.NET SAMPLES\2014.11.16\Client\Client\bin\Debug\Client.exe
+G:\.NET SAMPLES\2014.11.16\Client\Client\bin\Debug\Client.pdb
+G:\.NET SAMPLES\2014.11.16\Client\Client\bin\Debug\p2p.dll
+G:\.NET SAMPLES\2014.11.16\Client\Client\bin\Debug\p2p.pdb
+G:\.NET SAMPLES\2014.11.16\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

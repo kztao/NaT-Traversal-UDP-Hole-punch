@@ -1,0 +1,25 @@
+<!--Saved Clients list-->
+<Clients>
+  <clients>
+    <id>B1396BNKRF5j</id>
+    <licence>DEMO</licence>
+    <macAddress>60A44C4F4D86</macAddress>
+    <Address>127.0.0.1</Address>
+    <port>52372</port>
+    <cep>127.0.0.1:52372</cep>
+    <lep>127.0.0.1:52372</lep>
+    <Session>62</Session>
+    <message>B1396BNKRF5j,DEMO,60A44C4F4D86,127.0.0.1:55718</message>
+  </clients>
+  <clients>
+    <id>X3FXG6Y5DONL</id>
+    <licence>DEMO</licence>
+    <macAddress>60A44C4F4D86</macAddress>
+    <Address>0.0.0.0</Address>
+    <port>0</port>
+    <cep>0.0.0.0:0</cep>
+    <lep>127.0.0.1:51007</lep>
+    <Session>8</Session>
+    <message>X3FXG6Y5DONL,DEMO,60A44C4F4D86,127.0.0.1:55139</message>
+  </clients>
+</Clients>

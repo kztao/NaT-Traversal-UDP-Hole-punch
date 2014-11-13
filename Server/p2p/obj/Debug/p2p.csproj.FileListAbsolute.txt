@@ -1,0 +1,15 @@
+G:\.NET SAMPLES\2014.11.10\Server\p2p\obj\Debug\p2p.csprojResolveAssemblyReference.cache
+G:\.NET SAMPLES\2014.11.10\Server\p2p\bin\Debug\p2p.dll
+G:\.NET SAMPLES\2014.11.10\Server\p2p\bin\Debug\p2p.pdb
+G:\.NET SAMPLES\2014.11.10\Server\p2p\obj\Debug\p2p.dll
+G:\.NET SAMPLES\2014.11.10\Server\p2p\obj\Debug\p2p.pdb
+G:\.NET SAMPLES\2014.11.11\Server\p2p\bin\Debug\p2p.dll
+G:\.NET SAMPLES\2014.11.11\Server\p2p\bin\Debug\p2p.pdb
+G:\.NET SAMPLES\2014.11.11\Server\p2p\obj\Debug\p2p.csprojResolveAssemblyReference.cache
+G:\.NET SAMPLES\2014.11.11\Server\p2p\obj\Debug\p2p.dll
+G:\.NET SAMPLES\2014.11.11\Server\p2p\obj\Debug\p2p.pdb
+G:\.NET SAMPLES\2014.11.12\Server\p2p\bin\Debug\p2p.dll
+G:\.NET SAMPLES\2014.11.12\Server\p2p\bin\Debug\p2p.pdb
+G:\.NET SAMPLES\2014.11.12\Server\p2p\obj\Debug\p2p.csprojResolveAssemblyReference.cache
+G:\.NET SAMPLES\2014.11.12\Server\p2p\obj\Debug\p2p.dll
+G:\.NET SAMPLES\2014.11.12\Server\p2p\obj\Debug\p2p.pdb
